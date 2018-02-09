@@ -7,3 +7,6 @@ conditions:the network with vpn,cause pro will use chart.googleapis.com to creat
 
 run client.php
 
+
+demo:
+http://pub.raoye.me/otpauth/client.php
